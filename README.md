@@ -22,8 +22,8 @@ Install the required modules by running the following command:
 To use the Bank Management Project, follow these steps:
 
 Open the command prompt and navigate to the project directory.
-Run the following command to start the application:
+* Run the following command to start the application:
  python DarkX Bank.py
-The application will launch, and you will be prompted to log in as an admin or a customer.
-If you log in as an admin, you can create and delete admin and customer accounts, as well as view customer account details.
-If you log in as a customer, you can deposit, withdraw, check the balance, change the PIN, and close the account.
+* The application will launch, and you will be prompted to log in as an admin or a customer.
+* If you log in as an admin, you can create and delete admin and customer accounts, as well as view customer account details.
+* If you log in as a customer, you can deposit, withdraw, check the balance, change the PIN, and close the account.

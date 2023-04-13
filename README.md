@@ -27,3 +27,12 @@ Open the command prompt and navigate to the project directory.
 * The application will launch, and you will be prompted to log in as an admin or a customer.
 * If you log in as an admin, you can create and delete admin and customer accounts, as well as view customer account details.
 * If you log in as a customer, you can deposit, withdraw, check the balance, change the PIN, and close the account.
+
+# Contributing
+Contributions to the Bank Management Project are welcome. If you would like to contribute, please follow these steps:
+
+* Fork the project repository.
+* Create a new branch for your changes.
+* Make your changes and commit them to your branch.
+* Push your changes to your forked repository.
+* Submit a pull request to the project repository.

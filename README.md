@@ -37,5 +37,8 @@ Contributions to the Bank Management Project are welcome. If you would like to c
 * Push your changes to your forked repository.
 * Submit a pull request to the project repository.
 
-# Credits
+# Credits:
 The Bank Management Project was developed by *Abhay Kumar*
+
+# License:
+The Bank Management Project is released under the *MIT LICENSE*

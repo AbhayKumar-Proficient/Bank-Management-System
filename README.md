@@ -36,3 +36,6 @@ Contributions to the Bank Management Project are welcome. If you would like to c
 * Make your changes and commit them to your branch.
 * Push your changes to your forked repository.
 * Submit a pull request to the project repository.
+
+# Credits
+The Bank Management Project was developed by *Abhay Kumar*
